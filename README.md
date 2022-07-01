@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suresh
-- 👀 I’m interested in Cybersecurity of Grid Edge Devices like DERs, Microgrid and alos intrested in exploring SCADA and substation cybersecurity
+- 👀 I’m interested in Cybersecurity of Grid Edge Devices like DERs, Microgrid and also intrested in exploring SCADA and substation cybersecurity
 - 🌱 I’m currently learning Intrusion Detection System Development for the use case of Grid Edge Devices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mogilicharla_s@ee.iitr.ac.in, suresh.mogili032@gmail.com
